@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb41c8335e2ca96449f3991db5fa5702, type: 3}
+  m_Name: Icons
+  m_EditorClassIdentifier: 
+  quadIcons:
+  - {fileID: 2800000, guid: d004447ab902aa9449846166874d171a, type: 3}
+  - {fileID: 2800000, guid: 1c6034c5c258e5b439442230d1acd282, type: 3}
+  - {fileID: 2800000, guid: 0bbd731c8cd4bc34a808a564f4f8d3ea, type: 3}
+  - {fileID: 2800000, guid: d60356ea0f7b6624783790594ab4ce0c, type: 3}
+  - {fileID: 2800000, guid: e7bcfb2dc780b554cba14554c13a47c3, type: 3}
+  - {fileID: 2800000, guid: 5a1decfe1fa310145a000d03fe8e0a9c, type: 3}
+  - {fileID: 2800000, guid: 1717eeca6f831344bb9782d0468c982a, type: 3}
+  - {fileID: 2800000, guid: 41678cefe6d33084b954fc4cf122d44a, type: 3}
+  spriteIcons: []
+  charIconFont: {fileID: 0}
+  charIcons:
+  - Name: AppBarAdjust
+    Character: 60370
+  - Name: AppBarClose
+    Character: 59153
+  - Name: AppBarDone
+    Character: 59643
+  - Name: AppBarHide
+    Character: 59244
+  - Name: AppBarShow
+    Character: 59154
+  - Name: AppBarHome
+    Character: 60175

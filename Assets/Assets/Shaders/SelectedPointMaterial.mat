@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SelectedPointMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 8869d8f5abf7fd446997227c5dad2896, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_09bfdfff35ec4be29f4e19dffad5649e: 1
+    - Vector1_bb0eb8dcf6d54e8281ab61b64dd6445e: 0.1
+    m_Colors:
+    - Color_1bd7b1ad47db436aa1db18cf803c6d6b: {r: 2.130799, g: 0.3184336, b: 0.3012124, a: 0}
+    - Color_ce73a26547ba4edf86c7ac30889f87af: {r: 0.1910377, g: 0.5314437, b: 0.764151, a: 0}
+  m_BuildTextureStacks: []

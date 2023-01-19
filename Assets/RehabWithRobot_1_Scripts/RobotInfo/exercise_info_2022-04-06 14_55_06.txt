@@ -1,0 +1,2 @@
+06/04/2022 14:55:07: File Created!
+06/04/2022 14:55:07:674, robot_pos_w_timestamp, 1649253219969, 617.86, 253.93, 200.05, 2.34, -0.01, 3.1, tool_force, 1.29, -1.11, -0.28, actual_rep, 1, curr_step, 5, track_size, 99, robot_vel, 40.76, joints_pos, 49.68, 70.72, -56.02, -68.01, 59.74, 67.3, 39.0, tool_torque, -0.045, -0.589, 0.338, tool_momentum, -0.046, -0.536, 0.337, robot_mode, normal, 
